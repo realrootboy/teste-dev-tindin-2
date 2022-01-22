@@ -1,0 +1,6 @@
+POST http://localhost:8000/places
+content-type: application/json
+
+{
+    "name": "Mountain"
+}
