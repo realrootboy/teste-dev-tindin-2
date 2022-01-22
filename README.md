@@ -1,9 +1,7 @@
 # Teste Desenvolvedor: Backend 
 ## _(TINDIN - Educação Financeira Gamificada)_
 
-Email: renangomes.es@gmail.com
-Telefone: +5527992875113
-Residência: Vila Velha - ES
+Este projeto é a parte 2 desafio lançado pela empresa TINDIN, para a continuidade do processo seletivo da vaga de Desenvolvedor Backend.
 
 Para o consumo da API da Unsplash, foi criado um pequeno service localizado no diretório "src/services/unsplash.service.ts".
 Testes de integração relativos à API estão no diretório "\_\_tests\_\_/integration/unsplash.test.ts".
